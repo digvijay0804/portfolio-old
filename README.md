@@ -7,8 +7,8 @@ Welcome to my personal Cloud & DevOps portfolio. This portfolio showcases my tec
 **GitHub Pages:**
 https://github.com/digvijay0804/Digvijay-portfolio
 
-**AWS EC2 Deployment:**
-http://digvijay-portfolio0804.s3-website.ap-south-1.amazonaws.com
+**AWS S3 Deployment:**
+http://digvijay-thorat-portfolio.s3-website.ap-south-1.amazonaws.com
 
 ---
 
