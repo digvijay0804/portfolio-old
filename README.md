@@ -8,7 +8,7 @@ Welcome to my personal Cloud & DevOps portfolio. This portfolio showcases my tec
 https://github.com/digvijay0804/Digvijay-portfolio
 
 **Portfolio Link:**
-www.digvijay0804.online
+http://digvijay-thorat-portfolio.s3-website.ap-south-1.amazonaws.com
 
 ---
 
